@@ -8,6 +8,6 @@ public class Controller {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello from controller";
+        return "Hello from controller and test new commit";
     }
 }
